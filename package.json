@@ -1,5 +1,5 @@
 {
-  "name": "CrossMath v2",
+  "name": "Uktrav",
   "version": "1.0.0",
   "description": "CrossMath",
   "type": "module",
@@ -11,7 +11,7 @@
     "start": "node src/index.js"
   },
   "keywords": [
-    "proxy"
+    "gaming"
   ],
   "author": "",
   "license": "GPL-3.0-or-later",
